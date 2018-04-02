@@ -1,1 +1,0 @@
-# simple-implement-IR-by-inverted-index
