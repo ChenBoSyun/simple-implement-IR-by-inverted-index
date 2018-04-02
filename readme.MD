@@ -1,0 +1,1 @@
+https://nbviewer.jupyter.org/github/ChenBoSyun/simple-implement-IR-by-inverted-index/blob/master/readme.ipynb
